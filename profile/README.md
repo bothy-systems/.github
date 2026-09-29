@@ -1,5 +1,3 @@
-<img src="bothy-systems.svg" alt="bothy.systems" width="96" align="right">
-
 # bothy.systems
 
 We build the platforms that run national governing bodies of sport: members, clubs, events and rankings.

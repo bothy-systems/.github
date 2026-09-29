@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
-  <!-- bothy.systems: a roof that is also a peak, over a doorway -->
-  <rect width="1000" height="1000" fill="#1F3A2E"/>
-  <g transform="translate(0 18)" fill="none" stroke="#F2EBDD" stroke-width="110" stroke-linecap="butt" stroke-linejoin="miter">
-    <path d="M190 520 L500 250 L810 520"/>
-    <path d="M385 790 L385 650 A115 115 0 0 1 615 650 L615 790"/>
-  </g>
-</svg>
